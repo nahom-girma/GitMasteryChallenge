@@ -1,3 +1,4 @@
+this is the first commit
 this is a readme file for GitMasteryChallenge repository.
 the purspose of the repository is to make students familiar with basic GIT commands through exercise
 # GitMasteryChallenge.
