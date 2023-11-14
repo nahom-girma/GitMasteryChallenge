@@ -1,3 +1,4 @@
+
 this change corresponds to the commmit to be done in this branch (pull-request-branch)
 
 
@@ -8,3 +9,4 @@ GitMasteryChallenge.
 repository for SENG exercise1
 conflict resolved 
 Collaborative class for nahom
+branch creatted by the collaborator
